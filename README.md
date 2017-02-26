@@ -1,3 +1,3 @@
 
 # git/github ¿‘πÆ
-<img src="https://octodex.github.com/daftpunktocat-thomas">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
